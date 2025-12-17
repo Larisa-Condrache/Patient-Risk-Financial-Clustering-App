@@ -1,4 +1,0 @@
-- tot ce am pus in laburi
-- toate data sort ce le am facut
-- pag principala sa descrie set de date, ce se intampla
-- sa pot accessa tot prin running
