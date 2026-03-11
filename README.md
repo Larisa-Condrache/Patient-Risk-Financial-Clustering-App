@@ -1,4 +1,3 @@
-Readme · MD
 # 🧠 Patient Risk & Financial Clustering App
 
 O aplicație web de data science construită cu **Python** și **Streamlit**, care explorează două probleme de machine learning: clasificarea riscului de diabet și segmentarea clienților de credit card.
